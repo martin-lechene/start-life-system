@@ -1,0 +1,3 @@
+function returnFunction() {
+    ./start.sh
+}
